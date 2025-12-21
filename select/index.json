@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛が灯る",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-21T14:37:58.088554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛が灯る",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_愛が灯る_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛が灯る - The Flame of Love",
+      "artist": "Rokudenashi",
+      "has_synced": true,
+      "path": "select/02_愛が灯る_-_The_Flame_of_Love_Rokudenashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛が灯る",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_愛が灯る_ロクデナシ.txt"
+    }
+  ]
+}
